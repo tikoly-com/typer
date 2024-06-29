@@ -74,4 +74,4 @@ theme:
 ```
 
 ### Demo
-![typer](../assets/typer.png?raw=true)
+![typer](https://github.com/maaslalani/typer/raw/assets/typer.png?raw=true)
