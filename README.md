@@ -2,7 +2,7 @@
 
 Typing test in your terminal
 
-![Typer Banner](../assets/banner.png)
+![Typer Banner](https://github.com/maaslalani/typer/raw/assets/banner.png)
 
 ### Installation
 
